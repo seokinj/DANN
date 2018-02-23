@@ -6,10 +6,10 @@ two-moon datasets (Source Data)
 ![two-moon](/images/2moon(source).png)
 
 ## sDANN vs NN
-*Source and Target Data* (rotate on source data by 35°)  
+**Source and Target Data (rotate on source data by 35°)**  
 ![target](/images/2moon(source&target).png)  
 
-*sDANN*  
+**sDANN**  
 ![dann](/images/dann.png)  
-*NN*  
+**NN**  
 ![nn](/images/nn.png)
